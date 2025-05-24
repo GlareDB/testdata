@@ -1,7 +1,12 @@
 # testdata
 
-Test data used for rayexec.
+Test data used for GlareDB.
 
 # `clickbench`
 
-Contains a truncated hits parquet file (10,000 rows).
+- **single**: Truncated hits parquet file (10,000 rows)
+- **partitioned**: Partitioned truncated hits parquet files (10,000 rows each)
+
+# `firebolt_sample`
+
+Files from firebolt samples.
